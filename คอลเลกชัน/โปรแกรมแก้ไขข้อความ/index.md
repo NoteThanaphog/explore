@@ -1,7 +1,7 @@
 ---
 items:
  - adobe/brackets
- - limetext/lime
+ - limetext/lime/note
  - textmate/textmate
  - neovim/neovim
  - overleaf/overleaf
